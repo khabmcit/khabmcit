@@ -1,38 +1,61 @@
-# Hi, I'm Kait
+<h1 align="center">Kait</h1>
 
-Python automation developer focused on practical tools for business operations, device monitoring, and repetitive admin workflows.
+<p align="center">
+  Python automation developer building practical tools for monitoring, reporting, and developer profile presentation.
+</p>
+
+<p align="center">
+  <a href="https://ko-fi.com/kasah">Order on Ko-fi</a> |
+  <a href="mailto:khabmcit@gmail.com">Email</a> |
+  <a href="https://github.com/khabmcit/Check_Status_NVR">Current Project</a>
+</p>
+
+---
 
 ## What I Build
 
-- Python automation scripts
-- Camera/NVR health check tools
+- Python automation scripts for repetitive business workflows
+- Camera/NVR health check and reporting tools
 - Web admin task automation
-- Report generation from device or business data
-- Small internal tools for teams and local businesses
+- Markdown documentation and GitHub profile makeovers
+- Small internal tools for shops, offices, and independent developers
 
-## Current Project
+## Featured Work
 
-| Project | Description | Stack |
+| Project | What It Does | Stack |
 | --- | --- | --- |
-| [Check_Status_NVR](https://github.com/khabmcit/Check_Status_NVR) | Automation tool for checking Dahua/NVR HDD status, storage capacity, and recorder health reports. | Python, Selenium |
+| [Check_Status_NVR](https://github.com/khabmcit/Check_Status_NVR) | Checks Dahua/NVR HDD status, storage capacity, and recorder health reports. | Python, Selenium |
+| GitHub Profile Makeover Kit | Helps developers create cleaner GitHub profile READMEs with templates, checklist, and examples. | Markdown |
 
-## Services
+## GitHub Profile Makeover Service
 
-- Custom Python automation
-- NVR/camera status check setup
-- Report automation
-- GitHub profile README customization
+I help developers, students, and freelancers turn a blank or generic GitHub profile into a clear portfolio page.
 
-## I Create Custom GitHub Profile READMEs
+| Option | Best For | Price |
+| --- | --- | ---: |
+| Template Kit | DIY profile improvement with 5 README templates | $3 |
+| Custom Profile README | I write a profile README for you | $9 |
+| Profile + Repo Polish | Profile README plus one project README improvement | $19 |
 
-I help developers, students, and freelancers turn their GitHub profile into a clear portfolio page.
+Order here: [ko-fi.com/kasah](https://ko-fi.com/kasah)
 
-Starting from:
-- $9 for a custom GitHub profile README
-- $19 for profile + repository polish
+## What You Get
+
+- Clear profile positioning
+- Skills and project sections rewritten for readability
+- Contact and service section
+- Markdown file ready to use
+- Simple setup instructions
+
+## Best Fit
+
+- Students preparing for internships
+- Freshers applying for developer jobs
+- Freelancers who need a clearer GitHub portfolio
+- Developers with useful projects but weak README presentation
 
 ## Contact
 
 - Email: khabmcit@gmail.com
-- Service page: https://ko-fi.com/kasah
+- Ko-fi: https://ko-fi.com/kasah
 - GitHub: https://github.com/khabmcit
