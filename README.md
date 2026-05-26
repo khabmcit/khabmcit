@@ -28,11 +28,11 @@ Python automation developer focused on practical tools for business operations, 
 I help developers, students, and freelancers turn their GitHub profile into a clear portfolio page.
 
 Starting from:
-- $19 for a custom GitHub profile README
-- $39 for profile + repository polish
+- $9 for a custom GitHub profile README
+- $19 for profile + repository polish
 
 ## Contact
 
-- Email: YOUR_EMAIL_HERE
+- Email: khabmcit@gmail.com
 - Service page: https://ko-fi.com/kasah
 - GitHub: https://github.com/khabmcit
