@@ -18,9 +18,9 @@
 <div align="center">
 
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-Web%20Development-2563eb?style=for-the-badge)
-![Python Automation](https://img.shields.io/badge/Python-Automation-22c55e?style=for-the-badge&logo=python&logoColor=white)
-![Bounty Hunter](https://img.shields.io/badge/Bounty-Hunter-f59e0b?style=for-the-badge)
-![IT Support](https://img.shields.io/badge/IT-Support-06b6d4?style=for-the-badge)
+![Python-Automation](https://img.shields.io/badge/Python-Automation-22c55e?style=for-the-badge&logo=python&logoColor=white)
+![Bounty-Hunters](https://img.shields.io/badge/Bounty-Hunter-f59e0b?style=for-the-badge)
+![IT-Support](https://img.shields.io/badge/IT-Support-06b6d4?style=for-the-badge)
 
 </div>
 
