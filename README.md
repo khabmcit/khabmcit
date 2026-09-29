@@ -69,7 +69,7 @@ I focus on clean, practical, and reviewable solutions — whether it is an inter
  
 </table>
 
-### More then
+### Additional Information
 
  <tr>
     <td width="50%" valign="top">
