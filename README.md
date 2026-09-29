@@ -145,51 +145,6 @@ I focus on clean, practical, and reviewable solutions — whether it is an inter
 
 ---
 
-## ⭐ Featured Work
-
-| Project | What It Does | Stack |
-|---|---|---|
-| **Check_Status_NVR** | Checks Dahua/NVR HDD status, storage capacity, and recorder health reports | Python, Selenium |
-| **GitHub Profile Makeover Kit** | Helps developers create cleaner GitHub profile READMEs with templates, checklist, and examples | Markdown |
-| **Internal Automation Scripts** | Automates repetitive office, reporting, checking, and admin tasks | Python |
-| **Web Admin Tools** | Builds simple tools for managing business workflows and internal operations | Full Stack |
-| **IT Support Utilities** | Small tools for troubleshooting, checking devices, and supporting daily technical work | Python, Shell, Windows |
-
----
-
-## 🏆 Bounty Hunter Profile
-
-I am interested in open-source bounty work related to:
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🔧 Development Tasks
-
-- Frontend bug fixes
-- React / Next.js improvements
-- Small backend fixes
-- Python automation scripts
-- Developer tooling
-- GitHub Actions workflows
-
-    </td>
-    <td width="50%" valign="top">
-
-### 📚 Documentation Tasks
-
-- README cleanup
-- Setup guide improvement
-- Better project structure
-- Clearer usage instructions
-- Reproducible bug reports
-- Pull request verification notes
-
-    </td>
-  </tr>
-</table>
-
 ### My contribution style
 
 ```txt
