@@ -26,7 +26,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I’m **Kait**, a practical developer focused on building useful tools for real-world business workflows.
 
@@ -37,13 +37,13 @@ I focus on clean, practical, and reviewable solutions — whether it is an inter
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 💻 Full Stack Development
+### Full Stack Development
 
 - Building internal web tools
 - Creating admin dashboards
@@ -55,7 +55,7 @@ I focus on clean, practical, and reviewable solutions — whether it is an inter
     </td>
     <td width="50%" valign="top">
 
-### 🐍 Python Automation
+### Python Automation
 
 - Automating repetitive office tasks
 - Building reporting scripts
@@ -66,10 +66,15 @@ I focus on clean, practical, and reviewable solutions — whether it is an inter
 
     </td>
   </tr>
-  <tr>
+ 
+</table>
+
+### More then
+
+ <tr>
     <td width="50%" valign="top">
 
-### 🛠️ IT Support
+### IT Support
 
 - Troubleshooting daily technical issues
 - Supporting Windows and office systems
@@ -80,14 +85,3 @@ I focus on clean, practical, and reviewable solutions — whether it is an inter
 
     </td>
   </tr>
-</table>
-
-### My contribution style
-
-```txt
-1. Understand the issue clearly
-2. Keep the solution small and focused
-3. Write readable and maintainable code
-4. Test the result carefully
-5. Add screenshots, logs, or notes when useful
-6. Open a clean pull request with clear explanation
